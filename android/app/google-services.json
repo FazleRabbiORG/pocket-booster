@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044035308670",
+    "project_id": "earnbyinstall-f",
+    "storage_bucket": "earnbyinstall-f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044035308670:android:a68297d44f48e8f61e5c2f",
+        "android_client_info": {
+          "package_name": "com.earnbyinstall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044035308670-vukdf8k2qj3vacrq527e3gr9n8k9gj3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.earnbyinstall",
+            "certificate_hash": "0b76655a6c56a676b355491a39176ea09c533930"
+          }
+        },
+        {
+          "client_id": "1044035308670-vb96a16arpsivbgbc0o41s5odqaa0b0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUawQmdi8SlwvJ9aqsrRZVdidrr8rBIt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044035308670-vb96a16arpsivbgbc0o41s5odqaa0b0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
